@@ -1,0 +1,6 @@
+This is an example app trying to show the most simple and basic example of how to work with Amazon's SimpleDB
+with Sinatra. It isn't a good example of Sinatra code or approaches. In fact please don't built Sinatra apps that
+use get requests to build and delete objects! This is just the simplest thing I could put together that shows how to interact with
+SDB from Sinatra, please contact dan <at> mayerdan.com if you have any issues or questions.
+
+I will try to keep this example up to date so that it works with http://github.com/danmayer/dm-adapter-simpledb
